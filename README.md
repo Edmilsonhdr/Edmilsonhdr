@@ -4,7 +4,7 @@
 
 -🌱 Aperfeiçoando Front e Backend.
 
--🥅 Planos 2022: Iniciar carreira como desenvolvedor.
+-🥅 Planos 2023: Continuar evoluindo como Desenvolvedor.
 
 ### Conecte comigo:
 

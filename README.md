@@ -2,7 +2,13 @@
 
 ## Sou estudante e desenvolvedor!! 
 
--🌱 Aperfeiçoando Front e Backend.
+-🌱 Olá! Meu nome é Edmilson e tenho 24 anos. Recentemente, decidi fazer uma transição de carreira para a área de desenvolvimento e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Estou muito animado com essa nova jornada e espero aprender muito ao longo do caminho.
+
+Atualmente, estou estagiando como Desenvolvedor FullStack PHP, o que tem sido uma oportunidade incrível para colocar em prática o que tenho aprendido na faculdade. É muito empolgante trabalhar em uma área tão dinâmica e desafiadora, e sinto que estou crescendo muito como profissional.
+
+Uma das coisas que mais me motivou a fazer a transição para a área de desenvolvimento foi o fato de que essa é uma indústria em constante evolução, o que significa que sempre haverá novas tecnologias para aprender e novos desafios a serem superados. Eu adoro essa sensação de estar sempre aprendendo e crescendo como profissional, e estou ansioso para ver onde essa jornada me levará.
+
+De qualquer forma, estou muito feliz por ter tomado a decisão de mudar de carreira e entrar na área de desenvolvimento. Acredito que essa é uma escolha que mudará minha vida e estou ansioso para ver o que o futuro me reserva. Obrigado por ler!
 
 -🥅 Planos 2023: Continuar evoluindo como Desenvolvedor.
 

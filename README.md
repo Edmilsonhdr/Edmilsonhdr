@@ -10,7 +10,7 @@ Uma das coisas que mais me motivou a fazer a transição para a área de desenvo
 
 De qualquer forma, estou muito feliz por ter tomado a decisão de mudar de carreira e entrar na área de desenvolvimento. Acredito que essa é uma escolha que mudará minha vida e estou ansioso para ver o que o futuro me reserva. Obrigado por ler!
 
--🥅 Planos 2023: Continuar evoluindo como Desenvolvedor.
+-🥅 Planos 2024: Continuar evoluindo como Desenvolvedor.
 
 ### Conecte comigo:
 

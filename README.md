@@ -1,11 +1,11 @@
 ## 🌱 Olá! Meu nome é Edmilson.
 
-🎓 Recentemente, concluí minha graduação em Análise e Desenvolvimento de Sistemas e finalizei minha pós-graduação em Data Science. Essa trajetória acadêmica foi fundamental para consolidar minha base técnica e ampliar minha visão sobre o uso estratégico de dados e tecnologia.
+🎓 Formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Ciência de Dados, venho construindo uma carreira focada em unir engenharia de software e inteligência de dados para resolver problemas reais com tecnologia.
 
-💻 Atualmente, atuo como Desenvolvedor Full Stack, aplicando na prática os conhecimentos adquiridos ao longo dos estudos e me desafiando constantemente com novas tecnologias. Trabalhar nessa área dinâmica tem sido extremamente gratificante e enriquecedor.
+💻 Atualmente atuo como Desenvolvedor Full Stack, com experiência prática em Laravel, React, Oracle e automações Python, participando de projetos complexos que envolvem desde arquitetura de sistemas até integração de dados em larga escala. Essa vivência tem fortalecido minha visão de produto e aprimorado minha capacidade de transformar desafios técnicos em soluções eficientes.
 
-🚀 Minha transição para o desenvolvimento foi impulsionada pela paixão por inovação e pelo desejo contínuo de aprendizado. Gosto do ritmo acelerado da tecnologia e da oportunidade de crescer a cada novo projeto, problema ou linguagem que descubro.
+🚀 Sou movido por aprendizado contínuo e inovação. Gosto de mergulhar em novas linguagens, frameworks e conceitos, explorando como cada tecnologia pode potencializar negócios e simplificar processos.
 
-🔍 Estou animado para o que o futuro reserva. Acredito que minha formação aliada à experiência prática me prepara para contribuir de forma significativa em projetos que envolvam tanto desenvolvimento de sistemas quanto análise de dados
+🔍 Nos próximos passos, quero expandir ainda mais minha atuação em projetos que unam desenvolvimento, dados e inteligência artificial, contribuindo de forma estratégica para a evolução tecnológica
 
 Obrigado por ler!
